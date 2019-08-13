@@ -1,12 +1,4 @@
-{\rtf1\ansi\ansicpg1252\cocoartf1671\cocoasubrtf500
-{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;\red24\green25\blue27;\red246\green247\blue249;}
-{\*\expandedcolortbl;;\cssrgb\c12549\c12941\c14118;\cssrgb\c97255\c97647\c98039;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\sl320\partightenfactor0
-
-\f0\fs28 \cf2 \cb3 \expnd0\expndtw0\kerning0
-\outl0\strokewidth0 \strokec2 language: java\
-jdk:\
-  - oraclejdk11
+language: java
+jdk:
+  - oraclejdk8
+os: osx
